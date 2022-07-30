@@ -1,8 +1,12 @@
 # Odin project recipes
 
+## Introduction
+
 The focus of this project is to practice basic HTML by creating a page with some of my favorite recipes.
 It will grow as I continue the Odin project roadmap, so in the future it could include some CSS and Javascript
 for a better experience.
+
+To read the complete instructions click [here](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## How to run
 
